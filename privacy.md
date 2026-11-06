@@ -45,7 +45,7 @@ Saved content and Space names may contain personal information, even when the or
 
 When you save or open a link, Keeps contacts websites and related services to retrieve content, previews, images, or icons.
 
-When you use Explore or Find Similar, Keeps sends relevant information about the selected content and your discovery request to search and AI providers. This can include a link, title, description, generated summary, language or region settings, and recent exploration context.
+When you use Find Similar, Keeps sends relevant information about the selected content and your discovery request to search and AI providers. This can include a link, title, description, generated summary, language or region settings, and recent exploration context.
 
 If you choose to open content in an external AI assistant, Keeps passes the information prepared for that action to the service you select. Its privacy policy then applies.
 
