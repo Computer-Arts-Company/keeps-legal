@@ -7,85 +7,96 @@ permalink: /privacy/
 
 # Keeps Privacy Policy
 
-<p class="effective-date">Effective 26 September 2026</p>
+<p class="effective-date">Effective 6 November 2026</p>
 
-Keeps is made by Computer Arts Company. This policy explains what information Keeps handles, where it goes, and the choices you have.
+Keeps is made by Computer Arts Company. This policy explains how we handle information when you save, organise, and discover content with Keeps.
 
-Keeps is designed to keep your library private. We do not sell personal information, show advertising, track you across other companies’ apps or websites, or run behavioral analytics in Keeps.
+We do not sell your personal information, use it for advertising, or track you across other companies’ apps and websites.
 
-## Information you provide
+## Your library
 
-### Sign in with Apple
+Keeps stores the links you save, their titles, descriptions and artwork, and information such as your Spaces, saved dates, and organisation choices.
 
-When you continue with Apple, Keeps receives the stable account identifier Apple provides and, if you choose to share them, your name and email address. Keeps stores these details on your device to maintain your sign-in and show your account information. Computer Arts Company does not maintain a separate account database for this information.
+Your library is stored on your device. When iCloud is available, Keeps uses Apple’s iCloud services to sync supported library information across your devices.
 
-### Your Keeps library
+Keeps does not require an account or ask for your name or email address to use the app. If you contact us for support, we receive the information you choose to provide.
 
-Keeps stores the links you save and information needed to present and organize them, including URLs, titles, descriptions, site names, preview images, favicons, save dates, read state, Space names and icons, Space membership, and categorization choices.
+## Organise Keeps with AI
 
-### Shared Spaces
+With your permission, Keeps uses cloud AI to understand saved content and suggest ways to organise it.
 
-If you share a Space, its name, icon, included links, link metadata, and previews are made available through Apple CloudKit to the people you invite. Participants may also be able to see that the Space is shared and collaborate according to the permissions shown by Apple.
+This involves sending selected information through our service to an AI provider. Depending on the task, this may include:
 
-## Where your library is stored
+- Saved links, titles, descriptions, and text extracted from webpages or hosted PDFs.
 
-Keeps stores its working data in protected storage on your device and in an App Group shared only with the Keeps app, its Share extension, and its capture actions.
+- Summaries and categories generated from your saved content.
 
-When iCloud is available, your Keeps and Spaces are synchronized through your private iCloud account using Apple CloudKit so they can follow you across your devices. Shared Spaces use CloudKit’s private and shared databases. Regenerable machine-learning artifacts and the temporary capture queue are designed to remain on the device.
+- Space names and descriptions, and which Keeps you have added to or dismissed from Spaces.
 
-Your use of iCloud, Sign in with Apple, push delivery, and TestFlight is also governed by Apple’s terms and privacy policy.
+Some suggestions require considering information from multiple Keeps and Spaces together.
 
-## On-device intelligence
+We use this information to provide organisation features. We do not allow our AI providers to use it to train their models.
 
-Keeps’ categorization, semantic search, Space suggestions, and related library understanding are designed to run on your device using Apple frameworks. Your complete library, preview images, and on-device model artifacts are not sent to Computer Arts Company for these features.
+You can turn Organise Keeps with AI off in the app’s settings. This stops new AI organisation requests. It does not undo processing already completed or immediately delete information subject to existing retention periods.
 
-## Network requests
+Saved content and Space names may contain personal information, even when the original links are publicly accessible. When you use AI organisation or discovery features, relevant information may be sent to AI or search providers.
 
-### Link previews
+## Previews and discovery
 
-To save and display a link, Keeps may contact the linked website, redirect destinations, public preview or oEmbed endpoints, and image hosts. Those services receive the ordinary network information needed to answer a request, such as your IP address and request headers. Keeps may send a site’s domain to Google’s public favicon service to retrieve its icon.
+When you save or open a link, Keeps contacts websites and related services to retrieve content, previews, images, or icons.
 
-### Find Similar
+When you use Explore or Find Similar, Keeps sends relevant information about the selected content and your discovery request to search and AI providers. This can include a link, title, description, generated summary, language or region settings, and recent exploration context.
 
-Find Similar runs only when you ask for it. Keeps may send a compact description of the selected Keep to a web-search provider or to the Keeps discovery service. That description can include the saved URL, title, short summary, site name, inferred content type, a small set of semantic labels or Space descriptions, brand signals, and your locale. It does not include your Apple identifier, name, email, image files, or the rest of your library.
+If you choose to open content in an external AI assistant, Keeps passes the information prepared for that action to the service you select. Its privacy policy then applies.
 
-Returned discovery results may be cached for up to seven days to reduce repeat requests. Requests sent through the Keeps discovery service are configured not to store model output with the model provider where that option is supported. Providers may process limited network, security, and operational information under their own privacy policies.
+## Services we use
 
-### AI assistant handoff
+We use service providers to deliver specific features:
 
-If you choose ChatGPT, Claude, Gemini, Perplexity, or another assistant from a handoff screen, Keeps prepares a prompt from the selected Keep and opens the service you chose. The prompt is transferred only after your action and is then handled under that service’s terms and privacy policy.
+- Apple: iCloud sync, shared Spaces, and app distribution.
 
-## How information is shared
+- Cloudflare: hosting and protecting our cloud services.
 
-We do not sell your personal information and do not share it for cross-context behavioral advertising.
+- OpenAI: AI organisation and discovery responses.
 
-Information is disclosed only as needed to provide a feature you request:
+- You.com: web search for discovery.
 
-- to Apple for sign-in, iCloud, CloudKit, push delivery, TestFlight, and App Store services;
-- to websites and preview providers when retrieving link metadata;
-- to discovery providers when you use Find Similar;
-- to an AI assistant when you choose a handoff; and
-- to people you invite to a Shared Space.
+Websites and image hosts also receive requests when Keeps retrieves or displays their content.
 
-We may also disclose information if required by law, to protect people or the service from fraud or abuse, or as part of a business reorganization subject to appropriate safeguards.
+Our providers may process information in countries other than where you live. Their applicable privacy terms and safeguards govern that processing. We will keep this policy updated as our providers change.
 
-## Retention and deletion
+## Service security and diagnostics
 
-Your library remains until you delete items or remove the applicable app or iCloud data. Shared content remains in CloudKit until it is removed by the owner or through the available sharing controls. Temporary capture files are removed after a successful import. Cached metadata and discovery results may remain until they expire or the operating system clears them.
+Our cloud services process app verification identifiers and limited request, usage, and network information to verify requests, prevent abuse, and operate the service reliably.
 
-Signing out of Keeps removes the locally stored Sign in with Apple identifier, name, and email from the app, but it does not delete your Keeps library. You can delete Keeps and Spaces in the app. You can manage cloud copies through your iCloud storage controls. For help with an access or deletion request, email [nitesh@computerarts.company](mailto:nitesh@computerarts.company).
+These technical records are not used for advertising or tracking across other apps and websites.
 
-## Security
+## How long information is kept
 
-Keeps uses Apple platform protections including app sandboxing, Data Protection for staged capture files, and private or shared CloudKit databases. No system can guarantee absolute security, so please avoid saving secrets that require a dedicated password manager or similarly specialized protection.
+Your saved library remains until you delete it or remove the relevant device or iCloud data.
 
-## Children
+Our cloud services process and return content for AI organisation and discovery without storing saved content or generated responses for later reuse.
 
-Keeps is not directed to children below the minimum age required to use the relevant Apple services in their country. We do not knowingly operate a service intended to collect children’s personal information.
+Request records linked to an app installation are cleared after their processing day. Verification records are retained as needed to protect the service. Financial totals are kept without installation identifiers.
 
-## Changes and contact
+AI providers may retain information for security, abuse prevention, or legal obligations under their applicable terms. This is separate from using information to train models. See [OpenAI’s API data controls](https://developers.openai.com/api/docs/guides/your-data).
 
-We may update this policy as Keeps changes. Material changes will be reflected by an updated effective date and, when appropriate, an in-app notice.
+## Your choices
 
-Questions about privacy can be sent to Computer Arts Company at [nitesh@computerarts.company](mailto:nitesh@computerarts.company).
+You can delete Keeps and Spaces in the app, turn off AI organisation, and manage synced data through your iCloud settings.
 
+Deleting a Keep does not immediately remove information retained separately by a service provider under its applicable terms.
+
+Depending on where you live, you may have rights to access, correct, delete, or restrict the use of your personal information. Contact us to make a request. Because Keeps does not require an account, we may need additional information to locate relevant service records.
+
+## Protecting your information
+
+We use encrypted connections, platform security protections, and access controls to protect information. No method of storage or transmission can guarantee complete security.
+
+We may disclose information where required by law or where necessary to protect users and the service from fraud or abuse.
+
+## Updates and contact
+
+We will update this policy when our practices change. For material changes, we will provide an appropriate notice and request permission where required.
+
+For privacy questions or requests, contact Computer Arts Company at [nitesh@computerarts.company](mailto:nitesh@computerarts.company).
