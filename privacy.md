@@ -53,7 +53,7 @@ If you choose to open content in an external AI assistant, Keeps passes the info
 
 We use service providers to deliver specific features:
 
-- Apple: iCloud sync, shared Spaces, and app distribution.
+- Apple: iCloud sync and app distribution.
 
 - Cloudflare: hosting and protecting our cloud services.
 
