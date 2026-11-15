@@ -9,7 +9,7 @@ permalink: /privacy/
 
 <p class="effective-date">Effective 6 November 2026</p>
 
-Keeps is made by Computer Arts Company. This policy explains how we handle information when you save, organise, and discover content with Keeps.
+Keeps is made by Computer Arts Company. This policy explains how we handle information when you save, organise, and revisit content with Keeps.
 
 We do not sell your personal information, use it for advertising, or track you across other companies’ apps and websites.
 
@@ -39,15 +39,13 @@ We use this information to provide organisation features. We do not allow our AI
 
 You can turn Organise Keeps with AI off in the app’s settings. This stops new AI organisation requests. It does not undo processing already completed or immediately delete information subject to existing retention periods.
 
-Saved content and Space names may contain personal information, even when the original links are publicly accessible. When you use AI organisation or discovery features, relevant information may be sent to AI or search providers.
+Saved content and Space names may contain personal information, even when the original links are publicly accessible. If you enable AI organisation, relevant information may be sent to OpenAI.
 
-## Previews and discovery
+## Previews and browsing
 
 When you save or open a link, Keeps contacts websites and related services to retrieve content, previews, images, or icons.
 
-When you use Find Similar, Keeps sends relevant information about the selected content and your discovery request to search and AI providers. This can include a link, title, description, generated summary, language or region settings, and recent exploration context.
-
-If you choose to open content in an external AI assistant, Keeps passes the information prepared for that action to the service you select. Its privacy policy then applies.
+When you enter a web search in the Keeps browser, the search engine you select receives your query.
 
 ## Services we use
 
@@ -57,9 +55,7 @@ We use service providers to deliver specific features:
 
 - Cloudflare: hosting and protecting our cloud services.
 
-- OpenAI: AI organisation and discovery responses.
-
-- You.com: web search for discovery.
+- OpenAI: AI organisation.
 
 Websites and image hosts also receive requests when Keeps retrieves or displays their content.
 
@@ -75,7 +71,7 @@ These technical records are not used for advertising or tracking across other ap
 
 Your saved library remains until you delete it or remove the relevant device or iCloud data.
 
-Our cloud services process and return content for AI organisation and discovery without storing saved content or generated responses for later reuse.
+Our cloud services process and return content for AI organisation without storing saved content or generated responses for later reuse.
 
 Request records linked to an app installation are cleared after their processing day. Verification records are retained as needed to protect the service. Financial totals are kept without installation identifiers.
 
