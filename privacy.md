@@ -59,7 +59,7 @@ We use service providers to deliver specific features:
 
 Websites and image hosts also receive requests when Keeps retrieves or displays their content.
 
-Our providers may process information in countries other than where you live. Their applicable privacy terms and safeguards govern that processing. We will keep this policy updated as our providers change.
+We require service providers that process personal information on our behalf to protect it to the same standard as this policy and applicable privacy requirements. Our providers may process information in countries other than where you live. We will keep this policy updated as our providers change.
 
 ## Service security and diagnostics
 
